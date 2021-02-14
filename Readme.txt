@@ -1,5 +1,3 @@
-Made by Richard Jones
-Started: 2/18/2014
 I'm so bad at Super Mario Bros. Why should I be doing all the hard work? Mario should just do it himself.
 
 The goal of this script is to finish Super Mario Bros with only a very limited amount of information and skill set. It brute forces solutions and saves ones that work.
